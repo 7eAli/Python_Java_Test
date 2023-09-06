@@ -1,0 +1,6 @@
+/.vs
+*.txt
+.idea/
+out/
+*.iml
+*.xml
